@@ -1,6 +1,6 @@
 <img src = "0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif " width = "380px" align = "right" >
-<h1>* ❤ <font color = "#E6E6FA"> Salve Salve! Sou o Anthony e esse é o meu mundo da lua </font> 👾🤖👨‍🚀</h1>
-<h3>* ❤ Seja bem vindo ao meu GITHUB⛔!😎🎮🕹🎲💭🗯</h3>
+<h1>* ❤ <font color = "#E6E6FA"> Salve Salve! Sou o Anthony e esse é o meu mundo da lua </font> 🤖👨‍🚀</h1>
+<h3>* 👾 Sejam bem vindos ao meu GITHUB ⛔!😎🎮🕹🎲💭🗯</h3>
 
 Sou um entusiasta de TI e passo meu tempo tentando aprender "QA teste"!
 <br></br>
