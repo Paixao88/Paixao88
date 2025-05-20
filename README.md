@@ -1,49 +1,54 @@
-<img src = "0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif " width = "380px" align = "right" >
-<h1>* ❤ <font color = "#E6E6FA"> Anthony Douglas<br> Desenvolvedor | Backend </font> 🤯😍</h1>
-<h3>* 👾  Sejam bem vindos!!! ⛔!😎🎮🕹🎲💭🗯</h3>
+<p align="left">Olá, meu nome é Anthony Douglas, sou estudante de Análise e Desenvolvimento de Sistemas, estou em busca de um estágio na área de Back-End. Tenho conhecimento em Python, SQL, Power BI e Machine Learning, além de experiência acadêmica e pessoal em análise de dados, visualização e modelagem preditiva.<br>Sou dedicado, curioso e estou sempre buscando aprender novas habilidades para transformar dados em insights valiosos. Meu objetivo é aplicar técnicas de análise e aprendizado de máquina para resolver problemas reais e desenvolver soluções eficientes e inovadoras.</p>
 
-Sou um inicianate na área de Tecnologia e em busca do meu primeiro emprego"!
-<br></br>
-<h2>💻 Análise e Desenvolvimento de Sistemas</h2>
-<h4>•Conhecimento em Python<br>
-•Fundamentos de Linguagem Python Para Análise de Dados e Data Science<br>
-•Conhecimento Basico em JavaScript, HTML, CSS e PHP<br>
-•GitHub<br>
-•Cenários de testes em BDD <br>
-•Gerenciamento de projetos com Azure DevOps <br>
-•Conhecimento em fundamentos de teste manuais de software <br>
-•Estratégia de testes e Gestão de erros<br> 
-•Automação com Robot Framework <br>
-•Teste em API Rest com Postman <br>
-•Report de bugs ou problemas encontrados durante os testes.</h4><br>
-<br></br>
+###
 
-<FONT COLOR = "#E6E6FA"> * REDES SOCIAS </FONT>👇🏽
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paixao88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paixao88&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="120" alt="languages graph"  />
+</div>
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonydouglas88)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anthony_paixao88/)
+###
 
+<img align="right" height="150" src="https://media1.tenor.com/m/yvtiy5adhJMAAAAd/loki-loki-who-remains.gif"  />
 
-*TECNOLOGIAS 💻
+###
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="Javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+</div>
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/anthonydouglas88/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="anthony88ds@gmal.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-<div><br>
+###
 
-*IDE 🧠
-<div style="display: inline_block"><br/>
-<img align="center" alt="Html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-<img align="center" alt="Html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<br clear="both">
 
-<div>
+<img src="https://raw.githubusercontent.com/Paixao88/Paixao88/output/snake.svg" alt="Snake animation" />
 
-
+###
