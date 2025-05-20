@@ -46,9 +46,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Paixao88/Paixao88/output/snake.svg" alt="Snake animation" />
-
-###
